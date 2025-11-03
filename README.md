@@ -1,5 +1,11 @@
 # hbagente
 
+````sh
+PYTHONPATH=src python src/startup_data_reporter/main.py --startup_name="Neospace" --country="Brazil" 
+````
+
+
+
 ## …or create a new repository on the command line
 ````
 echo "# hbagente" >> README.md
