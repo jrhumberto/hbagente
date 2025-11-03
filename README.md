@@ -14,10 +14,17 @@
 10. https://chatgpt.com/g/g-qqTuUWsBY-crewai-assistant
 
 ## Comando
+
+### Executar agente
 ````sh
 PYTHONPATH=src python src/startup_data_reporter/main.py --startup_name="Neospace" --country="Brazil" 
 ````
 
+### Criar agente crewai
+````
+crewai create crew demo
+# Criará agents.yml, tasks.yml, crew.py e main.py
+````
 
 
 ## …or create a new repository on the command line
