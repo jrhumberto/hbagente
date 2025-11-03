@@ -1,0 +1,12 @@
+linkedin_summary:
+  description: >
+    Extraia o conteúdo do artigo localizado na URL abaixo e gere um texto pronto para ser publicado no LinkedIn.
+    O texto deve ser escrito em português brasileiro, focado em desenvolvedores de software e profissionais de tecnologia.
+    Use linguagem acessível, como se estivesse falando com colégas de profissão com muita experiência em desenvolvimento de
+    software e tecnologia da informação.
+    URL: {url}
+  expected_output: >
+    Um post com texto já formatado para o LinkedIn em português brasileiro com até 3 parágrafos, destacando os principais pontos
+    do artigo de forma casual como se estivesse falando com colegas de profissão com muita experiência em desenvolvimento de
+    software e tecnologia da informação. Não use nenhuma saudação no início do texto. Deixe um convite para as pessoas postarem
+    seus comentários. Use apenas texto, sem marcações. Use no maximo 1000 caracteres.
