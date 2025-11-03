@@ -26,6 +26,45 @@ crewai create crew demo
 # Criará agents.yml, tasks.yml, crew.py e main.py
 ````
 
+### PAsso a passo
+````
+1. uv init my-crew-project
+2. cd my-crew-project
+3. uv add crewai[tools]
+````
+
+### Arquivos crew
+````
+# agent.py
+from crewai import Agent
+assistant = Agent(
+    role="Data Analyzer",
+    goal="Extract insights from datasets",
+    backstory="Expert in Python and stats",
+    tools=[],
+    llm=llm
+)
+
+# tasks.py
+from crewai import Task
+task = Task(
+    description="Analyze Q4 sales data",
+    agent=assistant,
+    expected_output="Summary with trends"
+)
+
+# crew.py
+from crewai import Crew
+crew = Crew(
+    agents=[assistant],
+    tasks=[task],
+    verbose=True
+)
+result = crew.kicloff()
+print(result)
+````
+
+
 
 ## …or create a new repository on the command line
 ````
