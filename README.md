@@ -1,6 +1,13 @@
 # hbagente
 
 
+## Extrutura
+* src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
+* src/project -> retirado do pasta project de [11] e [12] - Ver também [13]
+* src/my_mcp -> retirado do pasta my_mcp de [11] e [12] - Ver também [13]
+* src/leann_with_ollama -> retirado do video [16]
+
+
 ## Referências
 1. https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1_5
 2. https://build.nvidia.com/nvidia/llama-3_3-nemotron-super-49b-v1_5/deploy
@@ -13,15 +20,11 @@
 9. https://docs.crewai.com/
 10. https://chatgpt.com/g/g-qqTuUWsBY-crewai-assistant
 11. https://github.com/caio-moliveira/mcp-agents/tree/main
-12. https://youtu.be/Lviw0siXbL4
-13. https://youtu.be/-tf_egWmCsM
+12. CrewAI Live de Jornada de Dados: https://youtu.be/Lviw0siXbL4
+13. CrewAI MCP: https://youtu.be/-tf_egWmCsM
 14. LEANN - https://github.com/yichuan-w/LEANN
 15. CLI Agentes - https://github.com/moazbuilds/CodeMachine-CLI
-
-## Extrutura
-* src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
-* src/project -> retirado do pasta project de [11] e [12] - Ver também [13]
-* src/my_mcp -> retirado do pasta my_mcp de [11] e [12] - Ver também [13]
+16. Leaan with Ollama - https://www.youtube.com/watch?v=7XqcuxrR4uM
 
 ## Comando
 
