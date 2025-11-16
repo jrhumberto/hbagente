@@ -15,7 +15,8 @@
 11. https://github.com/caio-moliveira/mcp-agents/tree/main
 12. https://youtu.be/Lviw0siXbL4
 13. https://youtu.be/-tf_egWmCsM
-14. LEANN - https://github.com/yichuan-w/LEANN 
+14. LEANN - https://github.com/yichuan-w/LEANN
+15. CLI Agentes - https://github.com/moazbuilds/CodeMachine-CLI
 
 ## Extrutura
 * src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
