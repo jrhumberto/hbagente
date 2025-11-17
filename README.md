@@ -1,11 +1,12 @@
 # hbagente
 
-
 ## Extrutura
 * src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
 * src/project -> retirado do pasta project de [11] e [12] - Ver também [13]
 * src/my_mcp -> retirado do pasta my_mcp de [11] e [12] - Ver também [13]
 * src/leann_with_ollama -> retirado do video [16]
+* src/demo_leann -> retirada da documentação oficial [17] - Ver tambén video [18]
+* src/docstoteles -> retirado de [20] - Ver também video [21]
 
 
 ## Referências
@@ -24,9 +25,13 @@
 13. CrewAI MCP: https://youtu.be/-tf_egWmCsM
 14. LEANN - https://github.com/yichuan-w/LEANN
 15. CLI Agentes - https://github.com/moazbuilds/CodeMachine-CLI
-16. Leaan with Ollama - https://www.youtube.com/watch?v=7XqcuxrR4uM
-17. Transforme qualquer documentação em uma API com esta IA (Firecrawl): https://youtu.be/gIT2bTTso0E
-
+16. Video - Leaan with Ollama - https://www.youtube.com/watch?v=7XqcuxrR4uM
+17. Demo com Leann: https://github.com/yichuan-w/LEANN/blob/main/demo.ipynb
+18. Leann : Smallest RAG Vector DB - https://www.youtube.com/watch?v=WzWqQp2WegY
+19. Video Transforme qualquer site em uma API com esta IA (Scraping de Dados com Firecrawl): https://youtu.be/gIT2bTTso0E
+20. Docstoteles - TRANSFORMEI qualquer documentação em um assistente de IA  (Web Scraping + RAG): https://github.com/asimov-academy/video-docstoteles-material
+21. Video - TRANSFORMEI qualquer documentação em um assistente de IA  (Web Scraping + RAG) - GROK, Firecrawl: https://youtu.be/emcxlgN8sQ0 
+    
 ## Comando
 
 ### Executar agente
