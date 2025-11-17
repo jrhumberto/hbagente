@@ -25,6 +25,7 @@
 14. LEANN - https://github.com/yichuan-w/LEANN
 15. CLI Agentes - https://github.com/moazbuilds/CodeMachine-CLI
 16. Leaan with Ollama - https://www.youtube.com/watch?v=7XqcuxrR4uM
+17. Transforme qualquer documentação em uma API com esta IA (Firecrawl): https://youtu.be/gIT2bTTso0E
 
 ## Comando
 
