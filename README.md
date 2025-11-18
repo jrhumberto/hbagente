@@ -37,6 +37,13 @@
 25. Awesome Data Centric - https://github.com/Renumics/awesome-open-data-centric-ai
 26. Code to UML: https://github.com/WiseCat-Git/code-to-uml-generator/
 27. Video **Jina Reader API: Build better AI Agents and RAG systems with Reader**: https://www.youtube.com/watch?v=GllAqZE6uws
+28. Video **How to Integrate BrowserAct with n8n in 60 Seconds | Web Scraping Automation TutorialN**: https://youtu.be/2CfEBOfpRcM
+29. Video **Extraia Dados de QUALQUER SITE Usando IA - 100% Grátis e Sem Programar (BrowserAct)**: https://youtu.be/XW5SzyC1zWM
+30. Chonkie: https://github.com/chonkie-inc/chonkie
+31. Resumo ou Curriculo: https://rxresu.me/auth/login
+32. Formulário: opnform.com
+33. Embedding_1: https://huggingface.co/BAAI/bge-m3
+34. Embedding_2: https://platform.openai.com/docs/guides/embeddings - text-embedding-3-small
 
 
 ## LLM Data Scrapers 🚀
@@ -47,7 +54,7 @@ A list of useful Open Source tools, LLM txt  and scrapers to gather data for LLM
 | :------| :------------|
 | [gitingest](https://github.com/cyclotruc/gitingest) | Replace `hub` with `ingest` in any github url to get a prompt-friendly extract of a codebase |
 | [gitforme.tech](https://gitforme.tech) | For any github url to get llm txt - https://github.com/herin7/gitforme |
-| [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | And a online llm txt: https://llmstxt.firecrawl.dev/ or in repository: https://github.com/firecrawl/create-llmstxt-py |
+| [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | Tools do MCP do Firecral em https://mcp.so/server/firecrawl-mcp-server  And a online llm txt: https://llmstxt.firecrawl.dev/ or in repository: https://github.com/firecrawl/create-llmstxt-py |
 | [deepgraph.co](https://deepgraph.co) | Transforma qualquer github em um chat e gráfico de redes como `https://deepgraph.co/<user>/<repo>`   Exemplo: https://deepgraph.co/deepgraph/deepgraph [23]  |
 | [repomix](https://github.com/yamadashy/repomix) |  Packs your entire repository into a single, AI-friendly file | 
 | [llm-scraper](https://github.com/mishushakov/llm-scraper) | Turn any webpage into structured data using LLMs | 
@@ -62,7 +69,7 @@ A list of useful Open Source tools, LLM txt  and scrapers to gather data for LLM
 | [llmstxt-generator](https://github.com/mendableai/llmstxt-generator) | API to generate `llms.txt`files  from websites for LLM training and inference | 
 | [llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools specifically for post-training [22] |
 | [llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools specifically for post-training [22] |
-
+| [Browseract.com](https://www.browseract.com/) | Integração com N8n e templates em https://www.browseract.com/blog/browseract-integration-guide-for-n8n [28] [29]|
 
 
 
