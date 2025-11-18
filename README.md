@@ -44,6 +44,7 @@
 32. Formulário: opnform.com
 33. Embedding_1: https://huggingface.co/BAAI/bge-m3
 34. Embedding_2: https://platform.openai.com/docs/guides/embeddings - text-embedding-3-small
+35. Embedding_3: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
 
 ## LLM Data Scrapers 🚀
