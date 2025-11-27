@@ -73,6 +73,42 @@ A list of useful Open Source tools, LLM txt  and scrapers to gather data for LLM
 | [Browseract.com](https://www.browseract.com/) | Integração com N8n e templates em https://www.browseract.com/blog/browseract-integration-guide-for-n8n [28] [29]|
 
 
+## Explicabilidade
+
+| Biblioteca / Método | PDP (Global) | ALE (Global) | Decomp. Func. (Global) | Import. Permut. (Global) | ICE (Local) | LIME (Local) | Contrafactual (Local) | SHAP (Local) | Downloads/mês | Github Stars | Documentação |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Scikit-learn** | ✅ | | | ✅ | ✅ | | | | 42,378,287 | 56.5K | [Link](https://scikit-learn.org/stable/getting_started.html) |
+| **treeinterpreter** | | | | | | | | | 81,137 | 729 | [Link](https://pypi.org/project/treeinterpreter/) |
+| **ELI5** | | | | ✅ | | ✅ | | | 412,788 | 229 | [Link](https://eli5.readthedocs.io/en/latest/) |
+| **Dalex** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 18,231 | 1.3K | [Link](https://dalex.drwhy.ai/) |
+| **ALIBI explain** | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ | 18,435 | 2.2K | [Link](https://docs.seldon.io/projects/alibi/en/latest/) |
+| **interpretML** | ✅ | | | | | ✅ | | ✅ | 78,810 | 5.8K | [Link](https://interpret.ml/docs/index.html) |
+| **OmniXAI** | ✅ | ✅ | | | | ✅ | ✅ | ✅ | 1,534 | 733 | [Link](https://opensource.salesforce.com/OmniXAI/latest/index.html) |
+| **scikit-explain** | ✅ | ✅ | | ✅ | ✅ | ✅ | | ✅ | 529 | 17 | [Link](https://scikit-explain.readthedocs.io/en/latest/) |
+| **pdpbox** | ✅ | | | | ✅ | | | | 23,067 | 787 | [Link](https://pdpbox.readthedocs.io/en/latest/) |
+| **pyAle** | | ✅ | | | | | | | 1,940 | 46 | [Link](https://github.com/DanaJomar/PyALE) |
+| **LIME** | | | | | | ✅ | | | 298,094 | 11K | [Link](https://lime.readthedocs.io/en/latest/) |
+| **Shap or Shapley** | | | | | | | | ✅ | 6,848,557 | 20.6K | [Link](https://shap.readthedocs.io/en/latest/) |
+
+
+| Biblioteca | LOCAL: Regressão (Lin/Log) | LOCAL: Árvores / RF | LOCAL: GBMs | GLOBAL: Regressão (Lin/Log) | GLOBAL: Árvores / RF | GLOBAL: GBMs |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Scikit-learn** | ✅ | | | ✅ | ✅ | ✅ |
+| **treeinterpreter**| | ✅ | | | | |
+| **ELI5** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Dalex** | | | | | | |
+| **ALIBI explain** | | | | | | |
+| **interpretML** | ✅ | ✅ (Apenas Árvores) | | ✅ | ✅ (Apenas Árvores) | |
+| **OmniXAI** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **scikit-explain** | | ✅ | | | | |
+| **pdpbox** | | | | | | |
+| **pyAle** | | | | | | |
+| **LIME** | | | | | | |
+| **Shap** | | | | | | |
+
+>**Observação sobre Dalex e ALIBI**: Na tabela de modelos intrínsecos (verde/roxo), essas bibliotecas aparecem vazias na imagem original, pois elas geralmente focam em explicar modelos gerados por outras bibliotecas (model-agnostic) em vez de fornecerem seus próprios modelos intrínsecos.
+
+![Figura original](https://github.com/user-attachments/assets/72864da8-6f6e-4f2a-967d-46be7c69579a)
 
     
 ## Comando
