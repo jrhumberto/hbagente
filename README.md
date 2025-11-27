@@ -50,9 +50,10 @@
 ## OCR
 1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
 2. https://huggingface.co/datalab-to/chandra
-3. **HunyuanOCR - Free OCR That Just Destroyed Every Commercial API - Run Locally**: https://www.youtube.com/watch?v=TOsLdlDwIZs
-4. https://huggingface.co/tencent/HunyuanOCR
-5. 
+3. https://www.tenorshare.com/ocr/chandra-ocr.html
+4. **HunyuanOCR - Free OCR That Just Destroyed Every Commercial API - Run Locally**: https://www.youtube.com/watch?v=TOsLdlDwIZs
+5. https://huggingface.co/tencent/HunyuanOCR
+6. 
 
 ## DOCLING
 <img width="703" height="597" alt="image" src="https://github.com/user-attachments/assets/e1e2d042-7c7e-4c1e-9b8e-d93e05fad16b" />
