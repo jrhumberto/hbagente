@@ -45,6 +45,17 @@
 33. Embedding_1: https://huggingface.co/BAAI/bge-m3
 34. Embedding_2: https://platform.openai.com/docs/guides/embeddings - text-embedding-3-small
 35. Embedding_3: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+36. OpenNotebook (alternativa ao notebooklm): https://github.com/lfnovo/open-notebook/blob/main/docs/getting-started/installation.md
+
+## OCR
+1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
+2. https://huggingface.co/datalab-to/chandra
+3. **HunyuanOCR - Free OCR That Just Destroyed Every Commercial API - Run Locally**: https://www.youtube.com/watch?v=TOsLdlDwIZs
+4. https://huggingface.co/tencent/HunyuanOCR
+5. 
+
+## DOCLING
+<img width="703" height="597" alt="image" src="https://github.com/user-attachments/assets/e1e2d042-7c7e-4c1e-9b8e-d93e05fad16b" />
 
 
 ## LLM Data Scrapers 🚀
