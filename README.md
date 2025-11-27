@@ -46,6 +46,20 @@
 34. Embedding_2: https://platform.openai.com/docs/guides/embeddings - text-embedding-3-small
 35. Embedding_3: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 36. OpenNotebook (alternativa ao notebooklm): https://github.com/lfnovo/open-notebook/blob/main/docs/getting-started/installation.md
+37. https://sandunlakshan.dev/posts/build-graphql-api-strawberry-fastapi-sqlite/
+38. https://github.com/XD-MHLOO/Osintgraph/
+39. https://addyo.substack.com/p/gemini-cli-tips-and-tricks
+40. https://addyo.substack.com/p/mcp-what-it-is-and-why-it-matters
+41. https://dr.miromind.ai/
+42. https://miromind.ai/
+43. https://docs.vectorchord.ai/vectorchord/getting-started/installation.html
+44. https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/OAuth%202.1%20for%20MCP%20Servers/finance.py
+45. https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main
+46. https://www.marktechpost.com/category/editors-pick/model-context-protocol-mcp/
+47. https://algorithm-visualizer.org/
+48. Repositóriod e prompts: https://prompt.aivra.cloud/
+49. Buscador deepscholar: https://deep-scholar.vercel.app/dashboard
+50. https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt
 
 ## OCR
 1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
@@ -53,7 +67,14 @@
 3. https://www.tenorshare.com/ocr/chandra-ocr.html
 4. **HunyuanOCR - Free OCR That Just Destroyed Every Commercial API - Run Locally**: https://www.youtube.com/watch?v=TOsLdlDwIZs
 5. https://huggingface.co/tencent/HunyuanOCR
-6. 
+6. **LightOnOCR : Fastest OCR, beats DeepSeek OCR, dots.ocr and PaddleOCR**: https://www.youtube.com/watch?v=RUODwV6bMPU
+7. https://huggingface.co/lightonai/LightonOCR-1B-1025
+8. **PaddleOCR VL + RAG: Revolutionize Complex Data Extraction (Open-Source)**: https://www.youtube.com/watch?v=brq5rPkTfyw
+9. https://freedium-mirror.cfd/https://levelup.gitconnected.com/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-ee3d9e937ba9
+10. https://blog.stackademic.com/how-to-run-deepseek-ocr-545b8da322ac
+11. https://freedium-mirror.cfd/https://medium.com/data-science-collective/how-to-use-deepseek-ocr-and-docling-for-pdf-parsing-ae00a88e10e7
+
+
 
 ## DOCLING
 <img width="703" height="597" alt="image" src="https://github.com/user-attachments/assets/e1e2d042-7c7e-4c1e-9b8e-d93e05fad16b" />
