@@ -60,7 +60,18 @@
 48. Repositóriod e prompts: https://prompt.aivra.cloud/
 49. Buscador deepscholar: https://deep-scholar.vercel.app/dashboard
 50. https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt
+51. https://github.com/mesquidar/ForensicsTools/
+52. https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
+53. https://github.com/landing-ai/ade-python/
+54. https://github.com/HKUDS/DeepCode
+55. Html to PDF: https://pdfmyurl.com/
+56. HTML to PDF: https://www.sejda.com/pdf-editor?
+57. https://github.com/Zie619/n8n-workflows
+58. https://osf.io/hrj7p/files
+59. https://github.com/widgetti/solara
 
+
+    
 ## Projetos interessantes VERCEL
 * https://github.com/vercel-labs/workflow-builder-template  -  workflow-builder-template.vercel.app
 * https://github.com/vercel-labs/coding-agent-template  -  coding-agent-template.vercel.app
@@ -90,6 +101,7 @@
 11. https://freedium-mirror.cfd/https://medium.com/data-science-collective/how-to-use-deepseek-ocr-and-docling-for-pdf-parsing-ae00a88e10e7
 12. **Kokoro TTS 82M - Gerador de vozes local e gratuito**: https://www.youtube.com/watch?v=C6QNcdVu3b8
 13. https://github.com/asimov-academy/Kokoro-TTS---Guia-de-uso
+14. https://github.com/gavrielc/Nano-PDF
 
 
 
