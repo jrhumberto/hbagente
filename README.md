@@ -61,7 +61,7 @@
 49. Buscador deepscholar: https://deep-scholar.vercel.app/dashboard
 50. https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt
 
-## OCR
+## OCR / TTS
 1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
 2. https://huggingface.co/datalab-to/chandra
 3. https://www.tenorshare.com/ocr/chandra-ocr.html
@@ -73,6 +73,8 @@
 9. https://freedium-mirror.cfd/https://levelup.gitconnected.com/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-ee3d9e937ba9
 10. https://blog.stackademic.com/how-to-run-deepseek-ocr-545b8da322ac
 11. https://freedium-mirror.cfd/https://medium.com/data-science-collective/how-to-use-deepseek-ocr-and-docling-for-pdf-parsing-ae00a88e10e7
+12. **Kokoro TTS 82M - Gerador de vozes local e gratuito**: https://www.youtube.com/watch?v=C6QNcdVu3b8
+13. https://github.com/asimov-academy/Kokoro-TTS---Guia-de-uso
 
 
 
