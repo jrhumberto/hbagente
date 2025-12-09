@@ -61,6 +61,21 @@
 49. Buscador deepscholar: https://deep-scholar.vercel.app/dashboard
 50. https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt
 
+## Projetos interessantes VERCEL
+* https://github.com/vercel-labs/workflow-builder-template  -  workflow-builder-template.vercel.app
+* https://github.com/vercel-labs/coding-agent-template  -  coding-agent-template.vercel.app
+* https://github.com/vercel-labs/ai-sdk-preview-pdf-support  -  ai-sdk-preview-pdf-support.vercel.app
+* https://github.com/vercel-labs/ai-sdk-preview-internal-knowledge-base  -  ai-sdk-preview-internal-knowledge-base.vercel.app
+* https://github.com/vercel-labs/ai-sdk-image-generator  -  ai-sdk-image-generator.vercel.app
+* https://github.com/vercel-labs/ai-sdk-preview-python-streaming  -  ai-sdk-preview-python-streaming.vercel.app
+* https://github.com/vercel-labs/gemini-chatbot  -  gemini-chatbot.vercel.app
+* https://github.com/vercel-labs/ai-sdk-starter-deepinfra  -  ai-sdk-starter-deepinfra.vercel.app
+* https://github.com/vercel-labs/ai-sdk-persistence-db  -  ai-sdk-persistence-db.vercel.app
+* https://github.com/vercel-labs/ai-sdk-gateway-demo  -  ai-sdk-gateway-demo.vercel.app
+* https://github.com/vercel-labs/ai-sdk-preview-multi-steps  - ai-sdk-preview-multi-steps.vercel.app
+* 
+
+
 ## OCR / TTS
 1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
 2. https://huggingface.co/datalab-to/chandra
