@@ -72,7 +72,7 @@
 
 
     
-## Projetos interessantes VERCEL
+## Projetos interessantes VERCEL ou APP
 * https://github.com/vercel-labs/workflow-builder-template  -  workflow-builder-template.vercel.app
 * https://github.com/vercel-labs/coding-agent-template  -  coding-agent-template.vercel.app
 * https://github.com/vercel-labs/ai-sdk-preview-pdf-support  -  ai-sdk-preview-pdf-support.vercel.app
@@ -84,7 +84,8 @@
 * https://github.com/vercel-labs/ai-sdk-persistence-db  -  ai-sdk-persistence-db.vercel.app
 * https://github.com/vercel-labs/ai-sdk-gateway-demo  -  ai-sdk-gateway-demo.vercel.app
 * https://github.com/vercel-labs/ai-sdk-preview-multi-steps  - ai-sdk-preview-multi-steps.vercel.app
-* 
+* **flet.dev** - https://github.com/ACH44AOG/siftyfamily/blob/main/main.py - https://github.com/GoremiOguru/github_linkedin/blob/master/dictionary_project.py
+* **solara.dev** - github.com/widgetti/solara - 
 
 
 ## OCR / TTS
