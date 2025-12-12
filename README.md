@@ -88,6 +88,18 @@
 * **flet.dev** - https://github.com/ACH44AOG/siftyfamily/blob/main/main.py - https://github.com/GoremiOguru/github_linkedin/blob/master/dictionary_project.py
 * **solara.dev** - https://github.com/widgetti/solara - https://dev.to/limacodes/how-to-create-a-cool-data-view-with-python-and-reactjs-using-solara-34mc
 * **reflex.dev** - https://github.com/reflex-dev/reflex - https://joshuaberkowitz.us/blog/github-repos-8/the-python-reflex-web-framework-750
+* **https://nicegui.io/**
+* **rio.dev** - https://github.com/rio-labs/rio
+* **taipy.io**
+* **anvil.works**
+* **gradio.app**
+* **https://pyscript.net/**
+* **runmercury.com** - https://github.com/mljar/mercury
+* **dotagent.ai** - https://github.com/dot-agent/nextpy
+* **https://reactpy.dev/docs/index.html**
+* **https://kitware.github.io/trame/**
+* **streamlit.io**
+* **https://dash.plotly.com/devtools**
 * https://deepsql.pro/sandbox.html
 
 
