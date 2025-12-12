@@ -68,11 +68,12 @@
 56. HTML to PDF: https://www.sejda.com/pdf-editor?
 57. https://github.com/Zie619/n8n-workflows
 58. https://osf.io/hrj7p/files
-59. https://github.com/widgetti/solara
+59. https://joshuaberkowitz.us/blog/github-repos-8/firecrawl-the-web-data-api-that-s-upending-how-we-scrape-the-internet-1041
+60. https://joshuaberkowitz.us/blog/github-repos-8/deepanalyze-8b-the-first-agentic-llm-for-autonomous-data-science-1777
 
 
     
-## Projetos interessantes VERCEL ou APP
+## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
 * https://github.com/vercel-labs/workflow-builder-template  -  workflow-builder-template.vercel.app
 * https://github.com/vercel-labs/coding-agent-template  -  coding-agent-template.vercel.app
 * https://github.com/vercel-labs/ai-sdk-preview-pdf-support  -  ai-sdk-preview-pdf-support.vercel.app
@@ -85,7 +86,9 @@
 * https://github.com/vercel-labs/ai-sdk-gateway-demo  -  ai-sdk-gateway-demo.vercel.app
 * https://github.com/vercel-labs/ai-sdk-preview-multi-steps  - ai-sdk-preview-multi-steps.vercel.app
 * **flet.dev** - https://github.com/ACH44AOG/siftyfamily/blob/main/main.py - https://github.com/GoremiOguru/github_linkedin/blob/master/dictionary_project.py
-* **solara.dev** - github.com/widgetti/solara - 
+* **solara.dev** - https://github.com/widgetti/solara - https://dev.to/limacodes/how-to-create-a-cool-data-view-with-python-and-reactjs-using-solara-34mc
+* **reflex.dev** - https://github.com/reflex-dev/reflex - https://joshuaberkowitz.us/blog/github-repos-8/the-python-reflex-web-framework-750
+* https://deepsql.pro/sandbox.html
 
 
 ## OCR / TTS
