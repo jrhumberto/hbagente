@@ -96,7 +96,7 @@
 * **https://pyscript.net/**
 * **runmercury.com** - https://github.com/mljar/mercury
 * **dotagent.ai** - https://github.com/dot-agent/nextpy
-* **https://reactpy.dev/docs/index.html**
+* **reactpy.dev**
 * **https://kitware.github.io/trame/**
 * **streamlit.io**
 * **django-unicorn.com**
