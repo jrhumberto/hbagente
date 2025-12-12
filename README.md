@@ -103,6 +103,7 @@
 * **https://dash.plotly.com/devtools**
 * https://deepsql.pro/sandbox.html
 * pg.datawan.id - https://github.com/datawan-labs/pg/
+* https://schemahub.ai/
 
 
 ## OCR / TTS
