@@ -70,6 +70,9 @@
 58. https://osf.io/hrj7p/files
 59. https://joshuaberkowitz.us/blog/github-repos-8/firecrawl-the-web-data-api-that-s-upending-how-we-scrape-the-internet-1041
 60. https://joshuaberkowitz.us/blog/github-repos-8/deepanalyze-8b-the-first-agentic-llm-for-autonomous-data-science-1777
+61. https://github.com/GetStream/Vision-Agents
+62. https://github.com/laysabelici/otimizacoes-pyspark/blob/main/OTIMIZACAO.ipynb
+63. https://github.com/microsoft/VibeVoice
 
 
     
