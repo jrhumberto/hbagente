@@ -121,6 +121,8 @@
 12. **Kokoro TTS 82M - Gerador de vozes local e gratuito**: https://www.youtube.com/watch?v=C6QNcdVu3b8
 13. https://github.com/asimov-academy/Kokoro-TTS---Guia-de-uso
 14. https://github.com/gavrielc/Nano-PDF
+15. **Smoldocling** - https://youtu.be/to3y4gfUvTQ - https://youtu.be/kPKRJeLMq_M
+16. **PaddleOCR** - https://youtu.be/brq5rPkTfyw
 
 
 
