@@ -73,6 +73,7 @@
 61. https://github.com/GetStream/Vision-Agents
 62. https://github.com/laysabelici/otimizacoes-pyspark/blob/main/OTIMIZACAO.ipynb
 63. https://github.com/microsoft/VibeVoice
+64. **Alternativa ao N8n**: https://github.com/simstudioai/sim
 
 
     
