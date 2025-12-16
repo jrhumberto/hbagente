@@ -74,7 +74,9 @@
 62. https://github.com/laysabelici/otimizacoes-pyspark/blob/main/OTIMIZACAO.ipynb
 63. https://github.com/microsoft/VibeVoice
 64. **Alternativa ao N8n**: https://github.com/simstudioai/sim
-
+65. **Camel_AI**: https://github.com/camel-ai/camel/tree/master
+66. **ScrapegraphAI**: https://scrapegraphai.com/ - https://www.youtube.com/watch?v=9Pd9_GpjiJ8
+67. 
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
