@@ -91,6 +91,7 @@
 * https://github.com/vercel-labs/ai-sdk-persistence-db  -  ai-sdk-persistence-db.vercel.app
 * https://github.com/vercel-labs/ai-sdk-gateway-demo  -  ai-sdk-gateway-demo.vercel.app
 * https://github.com/vercel-labs/ai-sdk-preview-multi-steps  - ai-sdk-preview-multi-steps.vercel.app
+* https://www.jiang.jp/posts/20240815_ai_sdk/
 * **flet.dev** - https://github.com/ACH44AOG/siftyfamily/blob/main/main.py - https://github.com/GoremiOguru/github_linkedin/blob/master/dictionary_project.py
 * **solara.dev** - https://github.com/widgetti/solara - https://dev.to/limacodes/how-to-create-a-cool-data-view-with-python-and-reactjs-using-solara-34mc
 * **reflex.dev** - https://github.com/reflex-dev/reflex - https://joshuaberkowitz.us/blog/github-repos-8/the-python-reflex-web-framework-750
