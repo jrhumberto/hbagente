@@ -132,6 +132,10 @@
 16. **PaddleOCR** - https://youtu.be/brq5rPkTfyw
 
 
+## OLLAMA-SCAN PDF
+<img width="551" height="244" alt="image" src="https://github.com/user-attachments/assets/44765316-d579-48f3-b890-48f0c7b56752" />
+
+
 
 ## DOCLING
 <img width="703" height="597" alt="image" src="https://github.com/user-attachments/assets/e1e2d042-7c7e-4c1e-9b8e-d93e05fad16b" />
