@@ -123,6 +123,7 @@
 - https://github.com/compsecdirect/dfir/tree/main/network-maps
 - https://online.visual-paradigm.com/pt/diagrams/features/use-case-diagram-software/
 - https://creately.com/diagram-type/use-case/
+- https://www.mermaidchart.com/app/projects/d648a200-836b-452e-babf-8d0daef4dece/diagrams/09469d33-138c-4beb-ab7c-07a1163c06e2/version/v0.1/edit
 
 
 ## OCR / TTS
