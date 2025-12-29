@@ -78,7 +78,8 @@
 66. **ScrapegraphAI**: https://scrapegraphai.com/ - https://www.youtube.com/watch?v=9Pd9_GpjiJ8
 67. **Browser-use**: https://medium.com/@michael.rhema/automated-browsing-browser-use-is-a-free-alternative-to-anthropics-computer-use-fff444b8b631
 68. https://alexgarcia.xyz/sqlite-vec/
-69. https://typesense.org/docs/29.0/api/conversational-search-rag.html#create-a-conversation-history-collection
+69. https://github.com/philschmid/gemini-samples/blob/main/scripts/embeddinggemma-sqlite-ollama.py
+70. https://typesense.org/docs/29.0/api/conversational-search-rag.html#create-a-conversation-history-collection
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
