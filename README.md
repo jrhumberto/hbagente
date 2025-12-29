@@ -112,6 +112,15 @@
 * pg.datawan.id - https://github.com/datawan-labs/pg/
 * https://schemahub.ai/
 
+## DESENHO/DIAGRAMA
+- https://datadef.io/
+- https://next-ai-drawio.jiang.jp/ - https://github.com/DayuanJiang/next-ai-draw-io
+- https://github.com/mikitex70/redmine_drawio
+- https://github.com/ZimengXiong/ExcaliDash/
+- https://github.com/compsecdirect/dfir/tree/main/network-maps
+- https://online.visual-paradigm.com/pt/diagrams/features/use-case-diagram-software/
+- https://creately.com/diagram-type/use-case/
+
 
 ## OCR / TTS
 1. **Chandra OCR in 9min**: https://www.youtube.com/watch?v=MSsYL8EpfDw
@@ -255,6 +264,8 @@ crew = Crew(
 result = crew.kicloff()
 print(result)
 ````
+
+
 
 
 
