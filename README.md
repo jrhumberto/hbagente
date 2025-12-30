@@ -84,7 +84,8 @@
 72. https://github.com/rodfloripa/Projeto25
 73. https://sheetsandbox.com/
 74. https://github.com/EvandroAlmeidaDev/mcp-power-bi
-75. https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
+75. https://github.com/KalyanM45/AI-Project-Gallery
+76. https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
