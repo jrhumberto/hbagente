@@ -184,6 +184,7 @@ A list of useful Open Source tools, LLM txt  and scrapers to gather data for LLM
 | [llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools specifically for post-training [22] |
 | [llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools specifically for post-training [22] |
 | [Browseract.com](https://www.browseract.com/) | Integração com N8n e templates em https://www.browseract.com/blog/browseract-integration-guide-for-n8n [28] [29]|
+| [Browserbase.com](https://www.browserbase.com/) | - |
 
 
 ## Explicabilidade
