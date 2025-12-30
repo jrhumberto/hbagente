@@ -86,6 +86,8 @@
 74. https://github.com/EvandroAlmeidaDev/mcp-power-bi
 75. https://github.com/KalyanM45/AI-Project-Gallery
 76. https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
+77. Geração de PowerBI - https://www.linkedin.com/pulse/python-tip-dashboards-automatically-generate-dax-izairton-prm5f/?trackingId=8AQquryzTgeVShjHUB3zGw%3D%3D
+78. Geração de PowerBI - https://datastud.dev/posts/dax-llm 
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
