@@ -80,6 +80,9 @@
 68. https://alexgarcia.xyz/sqlite-vec/
 69. https://github.com/philschmid/gemini-samples/blob/main/scripts/embeddinggemma-sqlite-ollama.py
 70. https://typesense.org/docs/29.0/api/conversational-search-rag.html#create-a-conversation-history-collection
+71. https://github.com/rodfloripa/Projeto23
+72. https://github.com/rodfloripa/Projeto25
+73. https://sheetsandbox.com/
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
