@@ -83,6 +83,7 @@
 71. https://github.com/rodfloripa/Projeto23
 72. https://github.com/rodfloripa/Projeto25
 73. https://sheetsandbox.com/
+74. https://github.com/EvandroAlmeidaDev/mcp-power-bi
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
