@@ -79,15 +79,19 @@
 67. **Browser-use**: https://medium.com/@michael.rhema/automated-browsing-browser-use-is-a-free-alternative-to-anthropics-computer-use-fff444b8b631
 68. https://alexgarcia.xyz/sqlite-vec/
 69. https://github.com/philschmid/gemini-samples/blob/main/scripts/embeddinggemma-sqlite-ollama.py
-70. https://typesense.org/docs/29.0/api/conversational-search-rag.html#create-a-conversation-history-collection
-71. https://github.com/rodfloripa/Projeto23
-72. https://github.com/rodfloripa/Projeto25
-73. https://sheetsandbox.com/
-74. https://github.com/EvandroAlmeidaDev/mcp-power-bi
-75. https://github.com/KalyanM45/AI-Project-Gallery
-76. https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
-77. Geração de PowerBI - https://www.linkedin.com/pulse/python-tip-dashboards-automatically-generate-dax-izairton-prm5f/?trackingId=8AQquryzTgeVShjHUB3zGw%3D%3D
-78. Geração de PowerBI - https://datastud.dev/posts/dax-llm 
+70. MCP https://datastud.dev/posts/pydantic-ai-mcp
+71. https://typesense.org/docs/29.0/api/conversational-search-rag.html#create-a-conversation-history-collection
+72. https://github.com/rodfloripa/Projeto23
+73. https://github.com/rodfloripa/Projeto25
+74. https://sheetsandbox.com/
+75. https://github.com/EvandroAlmeidaDev/mcp-power-bi
+76. https://github.com/KalyanM45/AI-Project-Gallery
+77. https://github.com/KalyanM45/End-to-End-Airbnb-Price-Prediction
+78. Geração de PowerBI - https://www.linkedin.com/pulse/python-tip-dashboards-automatically-generate-dax-izairton-prm5f/?trackingId=8AQquryzTgeVShjHUB3zGw%3D%3D
+79. Geração de PowerBI - https://datastud.dev/posts/dax-llm
+80. GEração de temas para PowerBI - https://www.powerui.com/
+81. https://www.linkedin.com/pulse/um-script-powershell-que-deixa-qualquer-projeto-keh8e/
+82. https://github.com/mexmarv/powerbi-databricks-semantic-gen
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
