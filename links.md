@@ -49,7 +49,7 @@
 47. https://docker-compose.directory/
 48. https://github.com/floguo/blueprint
 49. **https://corca.app/doc/1GzykB0ZY2TQ0vmzp9dzk**
-50. 
+50. patternpad.com
 
 
 
