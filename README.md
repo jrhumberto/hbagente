@@ -99,6 +99,7 @@
 87. https://github.com/the-dev-tools/dev-tools
 88. SCRAP: [Scrapling](https://github.com/D4Vinci/Scrapling)
 89. SCRAP: [CRAWL4ai](https://github.com/unclecode/crawl4ai)
+90. SCRAP: [Extrai JSON from PDF](https://github.com/a21ns1g4ts/data-wizard/)
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
