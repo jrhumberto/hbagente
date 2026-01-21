@@ -1,6 +1,6 @@
 # LINKS
 
-1. **ALTERNATIVA FREE AO ILOVEPDF** : github.com/pratik227/pdfwithlove
+1. **ALTERNATIVA FREE AO ILOVEPDF** : https://github.com/pratik227/pdfwithlove
 2. https://github.com/awtkns/fastapi-crudrouter/
 3. https://medium.com/@abhinav.dobhal/building-production-ready-fastapi-applications-with-service-layer-architecture-in-2025-f3af8a6ac563
 4. https://sudowrite.com/
