@@ -52,6 +52,9 @@
 50. **https://corca.app/doc/1GzykB0ZY2TQ0vmzp9dzk**
 51. patternpad.com
 52. **https://github.com/timf34/pagesource**
+53. https://github.com/evertramos/nginx-proxy-automation
+54. https://github.com/1Madgeek/react-flow-builder/?tab=readme-ov-file
+55. https://github.com/gamosoft/NoteDiscovery/
 
 
 
