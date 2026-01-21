@@ -55,6 +55,7 @@
 53. https://github.com/evertramos/nginx-proxy-automation
 54. https://github.com/1Madgeek/react-flow-builder/?tab=readme-ov-file
 55. https://github.com/gamosoft/NoteDiscovery/
+56. https://github.com/chartdb/chartdb
 
 
 
