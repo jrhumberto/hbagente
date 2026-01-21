@@ -93,7 +93,9 @@
 81. https://www.linkedin.com/pulse/um-script-powershell-que-deixa-qualquer-projeto-keh8e/
 82. https://github.com/mexmarv/powerbi-databricks-semantic-gen
 83. **mPlug DocOwl LLM OCR** - https://github.com/X-PLUG/mPLUG-DocOwl
-84. **https://github.com/ScrapeGraphAI/Scrapegraph-ai**
+84. **https://github.com/allenai/olmocr**
+85. **https://github.com/ScrapeGraphAI/Scrapegraph-ai**
+86. **Alternativa N8N**: https://github.com/simstudioai/sim
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
