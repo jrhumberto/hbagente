@@ -101,6 +101,7 @@
 89. SCRAP: [CRAWL4ai](https://github.com/unclecode/crawl4ai)
 90. SCRAP: [Extrai JSON from PDF](https://github.com/a21ns1g4ts/data-wizard/)
 91. CHAT PDF: https://github.com/Nutlope/pdftochat
+92. SCRAP: https://github.com/oxylabs/ai-crawler-py
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
