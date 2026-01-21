@@ -98,6 +98,7 @@
 86. **Alternativa N8N**: https://github.com/simstudioai/sim
 87. https://github.com/the-dev-tools/dev-tools
 88. SCRAP: [Scrapling](https://github.com/D4Vinci/Scrapling)
+89. SCRAP: [CRAWL4ai](https://github.com/unclecode/crawl4ai)
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
