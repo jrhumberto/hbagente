@@ -131,6 +131,7 @@
 
 ## DESENHO/DIAGRAMA
 - https://datadef.io/
+- https://www.nomnoml.com/
 - https://next-ai-drawio.jiang.jp/ - https://github.com/DayuanJiang/next-ai-draw-io
 - https://github.com/mikitex70/redmine_drawio
 - https://github.com/ZimengXiong/ExcaliDash/
