@@ -96,6 +96,7 @@
 84. **https://github.com/allenai/olmocr**
 85. **https://github.com/ScrapeGraphAI/Scrapegraph-ai**
 86. **Alternativa N8N**: https://github.com/simstudioai/sim
+87. https://github.com/the-dev-tools/dev-tools
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
