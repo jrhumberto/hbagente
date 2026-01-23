@@ -103,6 +103,7 @@
 91. CHAT PDF: https://github.com/Nutlope/pdftochat
 92. SCRAP: https://github.com/oxylabs/ai-crawler-py
 93. https://github.com/VectifyAI/PageIndex?tab=readme-ov-file
+94. https://github.com/VectifyAI/PageIndex
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
