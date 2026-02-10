@@ -155,6 +155,7 @@
 - https://www.mermaidchart.com/app/projects/d648a200-836b-452e-babf-8d0daef4dece/diagrams/09469d33-138c-4beb-ab7c-07a1163c06e2/version/v0.1/edit
 - https://github.com/shubhamgrg04/awesome-diagramming
 - https://agents.craft.do/mermaid
+- https://www.npmjs.com/package/@drawio/mcp
 
 
 ## OCR / TTS
