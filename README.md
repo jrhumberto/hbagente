@@ -107,6 +107,7 @@
 95. https://github.com/rohitg00/awesome-ai-apps/
 96. ETL: https://github.com/amphi-ai/amphi-etl?tab=readme-ov-file
 97. ETL: https://github.com/tableflowhq/csv-import
+98. https://t.co/bKo8e9HsFN
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
