@@ -51,7 +51,7 @@
 39. https://addyo.substack.com/p/gemini-cli-tips-and-tricks
 40. https://addyo.substack.com/p/mcp-what-it-is-and-why-it-matters
 41. https://dr.miromind.ai/
-42. https://miromind.ai/
+42. RAG: https://dev.to/teevirta/rag-vs-document-injection-why-your-ai-document-chat-needs-smart-retrieval-39pe
 43. https://docs.vectorchord.ai/vectorchord/getting-started/installation.html
 44. https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/OAuth%202.1%20for%20MCP%20Servers/finance.py
 45. https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main
@@ -73,7 +73,7 @@
 61. https://github.com/GetStream/Vision-Agents
 62. https://github.com/laysabelici/otimizacoes-pyspark/blob/main/OTIMIZACAO.ipynb
 63. https://github.com/microsoft/VibeVoice
-64. **Alternativa ao N8n**: https://github.com/simstudioai/sim
+64. **Alternativa ao N8N**: https://github.com/simstudioai/sim
 65. **Camel_AI**: https://github.com/camel-ai/camel/tree/master
 66. **ScrapegraphAI**: https://scrapegraphai.com/ - https://www.youtube.com/watch?v=9Pd9_GpjiJ8
 67. **Browser-use**: https://medium.com/@michael.rhema/automated-browsing-browser-use-is-a-free-alternative-to-anthropics-computer-use-fff444b8b631
@@ -108,6 +108,8 @@
 96. ETL: https://github.com/amphi-ai/amphi-etl?tab=readme-ov-file
 97. ETL: https://github.com/tableflowhq/csv-import
 98. https://t.co/bKo8e9HsFN
+99. RAG: https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i
+100. RAG: https://dev.to/nassermaronie/build-your-own-rag-app-a-step-by-step-guide-to-setup-llm-locally-using-ollama-python-and-chromadb-b12
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
