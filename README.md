@@ -105,6 +105,8 @@
 93. SCRAP: https://github.com/oxylabs/ai-crawler-py
 94. https://github.com/VectifyAI/PageIndex?tab=readme-ov-file
 95. https://github.com/rohitg00/awesome-ai-apps/
+96. ETL: https://github.com/amphi-ai/amphi-etl?tab=readme-ov-file
+97. ETL: https://github.com/tableflowhq/csv-import
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
