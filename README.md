@@ -1,5 +1,21 @@
 # hbagente
 
+## lix
+- https://github.com/zubair-trabzada/ai-legal-claude
+- https://github.com/SakanaAI/AI-Scientist-v2
+- https://github.com/jatinkrmalik/LLMFeeder
+- https://github.com/glincker/thesvg
+- https://github.com/windingwind/zotero-actions-tags
+- https://huggingface.co/spaces/dwzhu/PaperBanana
+- https://dwzhu-pku.github.io/PaperBanana/
+- https://tcc-projeto-de-pesquisa.smileai.com.br/
+- https://github.com/worldwidelaw/legal-sources
+- https://github.com/worldwidelaw/legal-sources
+- https://reedrevista.org/reed
+- https://www.ithinkwell.com.au/resources/thesis-planner-moveable-tasks
+- https://github.com/mnfst/awesome-free-llm-apis
+- https://github.com/rtk-ai/rtk
+
 ## Estrutura
 * src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
 * src/project -> retirado do pasta project de [11] e [12] - Ver também [13]
