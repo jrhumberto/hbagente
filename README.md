@@ -2,6 +2,7 @@
 
 ## lix
 - https://github.com/zubair-trabzada/ai-legal-claude
+- https://github.com/pratik227/pdfwithlove
 - https://github.com/SakanaAI/AI-Scientist-v2
 - https://github.com/jatinkrmalik/LLMFeeder
 - https://github.com/glincker/thesvg
