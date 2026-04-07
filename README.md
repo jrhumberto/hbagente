@@ -3,6 +3,7 @@
 ## lix
 - https://github.com/zubair-trabzada/ai-legal-claude
 - https://github.com/pratik227/pdfwithlove
+- https://llmstxt.org/
 - https://github.com/github/awesome-copilot
 - https://github.com/SakanaAI/AI-Scientist-v2
 - https://github.com/jatinkrmalik/LLMFeeder
@@ -17,6 +18,50 @@
 - https://www.ithinkwell.com.au/resources/thesis-planner-moveable-tasks
 - https://github.com/mnfst/awesome-free-llm-apis
 - https://github.com/rtk-ai/rtk
+- https://github.com/BIT-DataLab/Edit-Banana
+- https://github.com/superdoc-dev/superdoc
+- https://github.com/promptslab/Awesome-Prompt-Engineering
+- https://github.com/f/prompts.chat
+- https://github.com/cporter202/API-mega-list
+- https://github.com/docmd-io/docmd
+- https://github.com/HKUSTDial/awesome-data-agents
+- https://github.com/opendataloader-project/opendataloader-pdf
+- https://github.com/NameetP/pdfmux
+- https://markdown.new/
+- https://github.com/dolanmiu/docx
+- https://github.com/khoj-ai/khoj
+- https://github.com/unbrowse-ai/unbrowse
+- https://github.com/JCodesMore/ai-website-cloner-template
+- https://github.com/jina-ai/reader
+- https://github.com/itsOwen/CyberScraper-2077
+- https://github.com/gosom/google-maps-scraper
+- https://github.com/datalab-to/surya
+- https://github.com/katanaml/sparrow
+- https://github.com/ocrmypdf/OCRmyPDF
+- https://github.com/SamuelSchmidgall/AgentLaboratory
+- https://github.com/Nozbe/WatermelonDB
+- https://github.com/AdemBoukhris457/Doctra
+- https://github.com/oomol-lab/pdf-craft
+- https://github.com/rahulnyk/knowledge_graph
+- https://github.com/docmost/docmost
+- https://github.com/ucbepic/docetl
+- https://github.com/ZeroPointRepo/youtube-skills
+- https://github.com/AdemBoukhris457/Doctra
+- https://github.com/ashishps1/learn-ai-engineering
+- https://github.com/HKUDS/nanobot
+- https://github.com/EthicalML/awesome-production-machine-learning
+- https://github.com/Nutlope/pdftochat
+- https://github.com/evertramos/nginx-proxy-automation
+- https://github.com/ItzCrazyKns/Vane
+- https://github.com/FilippoMB/python-time-series-handbook
+- https://github.com/tableflowhq/csv-import
+- https://github.com/geongeorge/i-hate-regex
+- https://github.com/cheahjs/free-llm-api-resources
+- https://github.com/adithya-s-k/AI-Engineering.academy
+- https://github.com/PanXProject/awesome-certificates
+- https://github.com/puffinsoft/syntux
+- https://slim.sh/
+- https://tunnl.gg/
 
 ## Estrutura
 * src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
@@ -128,6 +173,7 @@
 98. https://t.co/bKo8e9HsFN
 99. RAG: https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i
 100. RAG: https://dev.to/nassermaronie/build-your-own-rag-app-a-step-by-step-guide-to-setup-llm-locally-using-ollama-python-and-chromadb-b12
+101. https://github.com/pymupdf/pymupdf4llm
 
     
 ## Projetos interessantes VERCEL ou APP (PYTHON+REACT / SQL)
@@ -176,6 +222,7 @@
 - https://github.com/shubhamgrg04/awesome-diagramming
 - https://agents.craft.do/mermaid
 - https://www.npmjs.com/package/@drawio/mcp
+- 
 
 
 ## OCR / TTS
