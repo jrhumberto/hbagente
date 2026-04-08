@@ -60,6 +60,7 @@
 - https://github.com/adithya-s-k/AI-Engineering.academy
 - https://github.com/PanXProject/awesome-certificates
 - https://github.com/puffinsoft/syntux
+- https://github.com/milla-jovovich/mempalace
 - https://slim.sh/
 - https://tunnl.gg/
 
