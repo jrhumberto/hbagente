@@ -2,7 +2,8 @@
 
 ## lix
 - https://github.com/zubair-trabzada/ai-legal-claude
-- alg0.dev
+- https://alg0.dev
+- [https://t.co/nbWhUHDsqW](https://goodlib.vercel.app/)
 - https://github.com/google/mcp
 - https://github.com/zarazhangrui/personalized-podcast
 - https://github.com/safishamsi/graphify  --  https://safishamsi.github.io/penpax.ai/
