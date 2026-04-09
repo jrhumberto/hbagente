@@ -2,6 +2,7 @@
 
 ## lix
 - https://github.com/zubair-trabzada/ai-legal-claude
+- https://ruben.substack.com/p/claude  --  https://ruben.substack.com/p/claude-code  --  https://ruben.substack.com/p/claude-skills
 - https://alg0.dev
 - [https://t.co/nbWhUHDsqW](https://goodlib.vercel.app/)
 - https://github.com/google/mcp
