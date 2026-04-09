@@ -2,7 +2,9 @@
 
 ## lix
 - https://github.com/zubair-trabzada/ai-legal-claude
-- https://github.com/safishamsi/graphify
+- https://github.com/google/mcp
+- https://github.com/zarazhangrui/personalized-podcast
+- https://github.com/safishamsi/graphify  --  https://safishamsi.github.io/penpax.ai/
 - https://github.com/yifanfeng97/Hyper-Extract
 - **https://github.com/run-llama/liteparse**
 - **https://github.com/jerryjliu/liteparse_samples**
