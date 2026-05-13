@@ -72,6 +72,10 @@
 - https://github.com/milla-jovovich/mempalace
 - https://slim.sh/
 - https://tunnl.gg/
+- https://github.com/zcaceres/markdownify-mcp
+- https://www.repobox.codes/dashboard
+- https://docs.insforge.dev/core-concepts/database/architecture
+- https://codeflow-five.vercel.app/
 
 ## Estrutura
 * src/startup_data_reporter e src/article_summarizer são projetos baseados em palestra no SERPRO
@@ -232,7 +236,9 @@
 - https://github.com/shubhamgrg04/awesome-diagramming
 - https://agents.craft.do/mermaid
 - https://www.npmjs.com/package/@drawio/mcp
-- 
+- https://github.com/likec4/likec4
+- https://github.com/Cocoon-AI/architecture-diagram-generator
+- https://github.com/swark-io/swark
 
 
 ## OCR / TTS
